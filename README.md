@@ -5,7 +5,7 @@
 #### Atualmente trabalho do Centro de Pesquisa em Informática da Fema (CEPEIN).
 
 - 🔭 Hoje trabalho com Front-end e Back-end
-- 🌱 Atualmente estudo desenvolvimento mobile com os técnologias Flutter, Ionic e React Native
+- 🌱 Atualmente estudo desenvolvimento mobile com as tecnologias Flutter, Ionic e React Native
 
 ## Tecnologias que trabalho
 <div style="display: inline_block"><br>
