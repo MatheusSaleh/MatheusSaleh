@@ -6,11 +6,12 @@
 Desenvolvedor **Full Stack** e estudante de Ciência da Computação (4° ano). Apaixonado por tecnologia, inovação e soluções que impactam positivamente a vida das pessoas.  
 
 #### 🛠️ **Tecnologias e Habilidades**  
-- **Front-End:** Angular, React, React Native  
+- **Front-End:** Angular, React 
 - **Back-End:** Spring Boot, WebSocket  
 - **DevOps & CI/CD:** GitHub Actions, Docker  
 - **Engenharia de Software:** Levantamento de requisitos, análise de necessidades, comunicação com clientes e analistas  
-- **Liderança Técnica:** Gestão de equipes, acompanhamento de projetos, mentoria de desenvolvedores  
+- **Liderança Técnica:** Gestão de equipes, acompanhamento de projetos, mentoria de desenvolvedores
+- **Mobile:** React Native, Flutter 
 
 #### 💼 **Experiência Atual**  
 - **Líder Técnico no CEPEIN da FEMA**  
