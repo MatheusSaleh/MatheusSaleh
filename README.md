@@ -7,7 +7,7 @@ Desenvolvedor **Full Stack** e estudante de Ciência da Computação (4° ano). 
 
 #### 🛠️ **Tecnologias e Habilidades**  
 - **Front-End:** Angular, React 
-- **Back-End:** Spring Boot, WebSocket  
+- **Back-End:** Spring Boot, WebSocket, Laravel  
 - **DevOps & CI/CD:** GitHub Actions, Docker  
 - **Engenharia de Software:** Levantamento de requisitos, análise de necessidades, comunicação com clientes e analistas  
 - **Liderança Técnica:** Gestão de equipes, acompanhamento de projetos, mentoria de desenvolvedores
@@ -42,6 +42,9 @@ Desenvolvedor **Full Stack** e estudante de Ciência da Computação (4° ano). 
   <img align="center" alt="Saleh-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Saleh-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg">
   <img align="center" alt="Saleh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Saleh-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/php/php-original.svg">
+  <img align="center" alt="Saleh-Laminas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/laminas/laminas-original.svg">
+  <img align="center" alt="Saleh-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/laravel/laravel-original.svg">
 </div>
 
 
