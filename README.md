@@ -44,9 +44,4 @@ Desenvolvedor **Full Stack** e estudante de Ciência da Computação (4° ano). 
   <img align="center" alt="Saleh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
 </div>
 
-## Linguagens de Programação mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSaleh&layout=compact)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSaleh\&include_all_commits=true)
