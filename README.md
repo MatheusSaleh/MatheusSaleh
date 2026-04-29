@@ -14,6 +14,12 @@ Desenvolvedor **Full Stack** e formado em Ciência da Computação pela Fundaç�
 - **Mobile:** React Native, Flutter 
 
 #### 💼 **Experiência Atual**  
+- **Desenvolvedor PHP Laravel Junior - Clube Envios**  
+  - Atuo como Desenvolvedor PHP Laravel Júnior, contribuindo diretamente na manutenção e 
+  evolução do sistema da Clube Envios. Sou responsável pela implementação de novas 
+  funcionalidades, correção de bugs e melhorias contínuas, garantindo a estabilidade e o 
+  desempenho da aplicação.
+
 - **Líder Técnico no CEPEIN da FEMA**  
   - Desenvolvimento de aplicações Full Stack (Angular + Spring Boot)  
   - Implementação de pipelines de CI/CD com GitHub Actions e Docker  
